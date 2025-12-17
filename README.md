@@ -1,4 +1,4 @@
-# CS208-07.04-Mini-Lab-1
+# CS208-07.04-Mini-Lab-2
 
 
 Add a new function named isStrongPassword() to the index.js file that takes a single password parameter. The function should return true only if all the following conditions are true:
