@@ -11,7 +11,7 @@ If any of the above conditions are false, isStrongPassword() should return false
 
 Below are example calls to isStrongPassword():
 
-isStrongPassword("Qwerty");         // false - Too short
-isStrongPassword("passwordQwerty")  // false - Contains "password"
-isStrongPassword("qwerty123")       // false - No uppercase characters
-isStrongPassword("Qwerty123")       // true
+- isStrongPassword("Qwerty");         // false - Too short
+- isStrongPassword("passwordQwerty")  // false - Contains "password"
+- isStrongPassword("qwerty123")       // false - No uppercase characters
+- isStrongPassword("Qwerty123")       // true
