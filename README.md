@@ -1,6 +1,6 @@
 # CS208-07.04-Mini-Lab-2
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=1117900820&ref=master&geo=UsWest)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=1118388628&ref=master&geo=UsWest)
 
 Add a new function named isStrongPassword() to the index.js file that takes a single password parameter. The function should return true only if all the following conditions are true:
 
