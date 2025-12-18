@@ -1,0 +1,16 @@
+{
+  "name": "Mini Lab",
+  "version": "1.0.0",
+  "description": "A mini lab for CS208",
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "qunit ./test.js",
+    "canvas": "bash canvas.sh"
+  },
+  "devDependencies": {
+    "qunit": "^2.24.3"
+  }
+}
